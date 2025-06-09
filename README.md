@@ -122,12 +122,12 @@
 ---
 
 <div align="center">
-  <h3>💫 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
-  
-  <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muhammad-Zunain&style=for-the-badge&color=00D9FF" alt="Profile Views"/>
-</div>
-<br/>
+ <h3>"The best way to predict the future is to create it." - Alan Kay</h3>
+
+<a href="https://example.com/your-cv.pdf" target="_blank" download>
+  <img src="https://img.shields.io/badge/📄 Download%20CV-4a4848?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=222222" alt="Download CV"/>
+</a>
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:454343,100:4a4848&height=120&section=footer" width="100%"/>
 
 </div>
