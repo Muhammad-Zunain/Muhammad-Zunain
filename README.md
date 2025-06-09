@@ -82,15 +82,6 @@
   </a>
 </div>
 
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Muhammad-Zunain/Muhammad-Zunain/output/snake.svg" alt="Snake animation" />
-</div>
-
 ---
 
 ## 📬 Let's Connect
@@ -124,7 +115,7 @@
 <div align="center">
  <h3>"The best way to predict the future is to create it." - Alan Kay</h3>
 
-<a href="https://example.com/your-cv.pdf" target="_blank" download>
+<a href="https://drive.google.com/file/d/1AYXZHuWlyZ3xd2Cta9PQTp6uhtRUfXNd/view?usp=sharing" target="_blank" download>
   <img src="https://img.shields.io/badge/📄 Download%20CV-4a4848?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=222222" alt="Download CV"/>
 </a>
 
