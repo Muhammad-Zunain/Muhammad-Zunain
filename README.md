@@ -71,19 +71,6 @@
 
 ---
 
-## 🌟 Featured Repositories
-
-<div align="center">
-  <a href="https://github.com/Muhammad-Zunain/Machine-Learning-CEP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Zunain&repo=Machine-Learning-CEP&theme=tokyonight&hide_border=true&bg_color=2C2F33&title_color=B0BEC5&text_color=FFFFFF" />
-  </a>
-  <a href="https://github.com/Muhammad-Zunain/LRU-Cache-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Zunain&repo=LRU-Cache-Project&theme=tokyonight&hide_border=true&bg_color=2C2F33&title_color=B0BEC5&text_color=FFFFFF" />
-  </a>
-</div>
-
----
-
 ## 📬 Let's Connect
 
 <div align="center">
