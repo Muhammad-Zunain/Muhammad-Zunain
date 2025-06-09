@@ -11,30 +11,16 @@
 
 ---
 
-## 🚀 About Me
+## 📝 About Me
 
-```javascript
-const zunain = {
-    location: "Karachi, Pakistan 🇵🇰",
-    education: "Computer & Information Systems Engineering @ NEDUET '26",
-    currentFocus: ["Full Stack Development", "Machine Learning", "Open Source"],
-    languages: ["Python", "JavaScript", "TypeScript"],
-    hobbies: ["Coding", "Problem Solving", "Tech Exploration"],
-    funFact: "Chai ☕ + Code 💻 = Perfect Day"
-};
-```
+💻 I’m currently studying **Computer and Information Systems Engineering** at **NED University of Engineering and Technology**. I have a strong interest in **Machine Learning** and **Artificial Intelligence**, with hands-on experience in training and evaluating ML models using **Python**.
 
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+🛠️ In addition to AI/ML, I’m a passionate **full-stack developer** skilled in **JavaScript** and **Python**, actively building responsive and scalable **web and mobile applications** using modern technologies like **React**, **Node.js**, and **Django**.
 
-🎯 **Mission:** Building impactful solutions through clean, efficient code  
-💡 **Vision:** Bridging the gap between ideas and implementation  
-🌟 **Values:** Innovation, Quality, Continuous Learning  
+🚀 I’m constantly expanding my skill set, exploring new tools, and working on real-world projects that combine **software engineering** with **data-driven insights**.
 
-- 🔭 Currently working on **Full-Stack Web Applications**
-- 🌱 Learning **Advanced AI/ML** and **Cloud Technologies**
-- 👯 Open to collaborate on **MERN Stack Projects**
-- 💬 Ask me about **React, Python, JavaScript**
-- 📫 Reach me at **muhammadzunain2004@gmail.com**
+📩 **Reach me at:** muhammadzunain2004@gmail.com
+
 
 ---
 
@@ -42,30 +28,32 @@ const zunain = {
 
 ### 💻 Programming Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,c" />
 </div>
 
 ### 🎨 Frontend Development
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,sass" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,sass,materialui,redux" />
 </div>
 
-### ⚙️ Backend Development
+### 🗄️ Backend Development
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postgres" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,mysql,sqlite" />
 </div>
 
 ### 🤖 AI/ML & Data Science
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
+  <div>
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" height="32"/>
+  </div>
 </div>
 
-### 🛠️ Tools & Technologies
+### ⚙️ Tools & Technologies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,anaconda,,postman,docker,vercel" />
 </div>
 
 ---
@@ -73,53 +61,29 @@ const zunain = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Zunain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Zunain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Zunain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=2C2F33&title_color=B0BEC5&icon_color=B0BEC5&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Zunain&layout=compact&theme=tokyonight&hide_border=true&bg_color=2C2F33&title_color=B0BEC5&text_color=FFFFFF"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Zunain&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Zunain&theme=tokyonight&hide_border=true&background=2C2F33&stroke=B0BEC5&ring=B0BEC5&fire=B0BEC5&currStreakLabel=B0BEC5" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Zunain&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-</div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Zunain&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy"/>
-</div>
-
----
-
-## 🔥 Current Projects
-
-<div align="center">
-  
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| 🚀 **AI Task Manager** | Smart task management with ML | React, Node.js, Python | 🚧 In Progress |
-| 💼 **Portfolio Website** | Personal portfolio with animations | Next.js, Tailwind CSS | ✅ Complete |
-| 🤖 **ML Prediction Tool** | Data analysis and predictions | Python, TensorFlow | 🚧 In Progress |
-| 📱 **Mobile App** | Cross-platform mobile solution | React Native | 📋 Planning |
-
-</div>
 
 ---
 
 ## 🌟 Featured Repositories
 
 <div align="center">
-  <a href="https://github.com/Muhammad-Zunain/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Zunain&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+  <a href="https://github.com/Muhammad-Zunain/Machine-Learning-CEP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Zunain&repo=Machine-Learning-CEP&theme=tokyonight&hide_border=true&bg_color=2C2F33&title_color=B0BEC5&text_color=FFFFFF" />
   </a>
-  <a href="https://github.com/Muhammad-Zunain/ai-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Zunain&repo=ai-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+  <a href="https://github.com/Muhammad-Zunain/LRU-Cache-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Zunain&repo=LRU-Cache-Project&theme=tokyonight&hide_border=true&bg_color=2C2F33&title_color=B0BEC5&text_color=FFFFFF" />
   </a>
 </div>
+
 
 ---
 
