@@ -1,21 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hey%20There!%20👋&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a0a0a0,100:a0a0a0&height=200&section=header&text=Hey%20There!%20👋&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>  
-  I'm Muhammad Zunain  
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
-</h1>
 
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=CIS+Engineer+%40+NEDUET+'26+🎓;Full+Stack+Developer+💻;Python+%26+MERN+Stack+Expert;ML%2FAI+Enthusiast+🤖;Building+Tomorrow's+Solutions+✨" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://github.com/Muhammad-Zunain/Muhammad-Zunain/blob/main/assets/developer.gif" width="400" alt="Developer GIF"/>
+  <img src="https://github.com/Muhammad-Zunain/Muhammad-Zunain/blob/main/Muhammad Zunain.png" alt="Banner Image"/>
 </div>
 
 ---
