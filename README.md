@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a0a0a0,100:a0a0a0&height=200&section=header&text=Hey%20There!%20👋&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:454343,100:4a4848&height=200&section=header&text=Hey%20There!%20👋&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
 
 
@@ -33,7 +33,7 @@
 
 ### 🎨 Frontend Development
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,sass,materialui,redux" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,sass,materialui,redux,wordpress" />
 </div>
 
 ### 🗄️ Backend Development
@@ -47,13 +47,13 @@
   <div>
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" height="32"/>
   </div>
 </div>
 
 ### ⚙️ Tools & Technologies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,anaconda,,postman,docker,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,anaconda,postman,docker,vercel" />
 </div>
 
 ---
@@ -68,8 +68,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Zunain&theme=tokyonight&hide_border=true&background=2C2F33&stroke=B0BEC5&ring=B0BEC5&fire=B0BEC5&currStreakLabel=B0BEC5" alt="GitHub Streak"/>
 </div>
-
-
 
 ---
 
@@ -95,15 +93,29 @@
 
 ---
 
-## 🤝 Let's Connect
+## 📬 Let's Connect
 
 <div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadzunain2004@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadzunain/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Zunain)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your_instagram_username/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_twitter_handle)
+
+  <a href="mailto:muhammadzunain2004@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=email" alt="Email" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/muhammadzunain/" target="_blank">
+     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Muhammad-Zunain" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/your_instagram_username/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/your_twitter_handle" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
+  </a>
 
 </div>
 
@@ -112,7 +124,10 @@
 <div align="center">
   <h3>💫 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=Muhammad-Zunain&style=for-the-badge&color=00D9FF)
-  
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
+  <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Muhammad-Zunain&style=for-the-badge&color=00D9FF" alt="Profile Views"/>
+</div>
+<br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:454343,100:4a4848&height=120&section=footer" width="100%"/>
+
 </div>
